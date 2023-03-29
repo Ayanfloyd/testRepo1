@@ -1,2 +1,2 @@
 # testRepo1
-test Repor Csera
+test Repo
